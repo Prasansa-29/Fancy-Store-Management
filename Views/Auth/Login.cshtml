@@ -1,0 +1,38 @@
+﻿@model Fancy.Web.ViewModels.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/Layout_Login.cshtml";
+}
+
+<div class="container">
+    <div class=" row ">
+        <div class=" col-6 offset-4 border border-primary rounded pl-5 pr-5 pb-5 ">
+            <div class="text-center">
+                <h1 class="text-info">User Login</h1>
+            </div>
+
+            <form method="post" asp-action="Login">
+                <div class="form-group">
+                    <label asp-for="Username"> </label>
+                    <input type="text" class="form-control" placeholder="Enter username" name="Username" autocomplete="off">
+                </div>
+               
+                <div class="form-group">
+                    <label asp-for="Password"> </label>
+                    <input type="password" class="form-control" placeholder="Enter password" name="Password" autocomplete="off">
+                            </div>
+               
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary mt-2">LOGIN</button>
+                </div>
+            </form>
+            <div class="text-center">
+                <a class="text-primary" asp-action="ForgotUsername"> Forgot Username </a> <br>
+                <a class="text-primary" asp-action="ForgotPassword"> Forgot Password </a> <br>
+                <a class="text-light btn btn-primary font-weight-bold" asp-action="SignUp" asp-controller="Auth">Let's Sign Up </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+

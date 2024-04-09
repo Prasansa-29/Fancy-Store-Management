@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancy\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancy\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16A3A09-CFF9-40FE-98B8-26D8C8A86C14}|..\\ClassLibrary1\\Fancy.Infrastructure.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\classlibrary1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancy\\views\\shared\\layout_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:views\\shared\\layout_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3445B8D7-92FA-4547-AABA-A47B65E35F4C}|..\\FancyCommerce\\Fancy.Core.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancycommerce\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancy\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16A3A09-CFF9-40FE-98B8-26D8C8A86C14}|..\\ClassLibrary1\\Fancy.Infrastructure.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\classlibrary1\\application\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16A3A09-CFF9-40FE-98B8-26D8C8A86C14}|..\\ClassLibrary1\\Fancy.Infrastructure.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\classlibrary1\\fancy.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancy\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30076BE0-3C7C-4151-9594-8F32993293AB}|..\\ClassLibrary2\\Fancy.Models.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\classlibrary2\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30076BE0-3C7C-4151-9594-8F32993293AB}|..\\ClassLibrary2\\Fancy.Models.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\classlibrary2\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30076BE0-3C7C-4151-9594-8F32993293AB}|..\\ClassLibrary2\\Fancy.Models.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\classlibrary2\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB2085C4-898A-4A92-852A-3423BBF146E3}|Fancy.Web.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30076BE0-3C7C-4151-9594-8F32993293AB}|..\\ClassLibrary2\\Fancy.Models.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\classlibrary2\\fancy.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3445B8D7-92FA-4547-AABA-A47B65E35F4C}|..\\FancyCommerce\\Fancy.Core.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancycommerce\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3445B8D7-92FA-4547-AABA-A47B65E35F4C}|..\\FancyCommerce\\FancyCommerce.csproj|c:\\users\\asus\\onedrive\\documents\\dotnet projects\\selfprojects\\fancycommerce\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:39:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:00:20.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\FancyCommerce\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "..\\FancyCommerce\\Services\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\FancyCommerce\\Services\\IUserServices.cs",
+              "RelativeToolTip": "..\\FancyCommerce\\Services\\IUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:04:45.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T02:52:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T02:52:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Layout_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Shared\\Layout_Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Layout_Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Shared\\Layout_Login.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Layout_Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:24:03.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary1\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:56:05.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T09:40:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:44:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T10:08:54.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary1\\Application\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Application\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary1\\Application\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Application\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:22:32.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T11:34:07.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:58:42.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\UserModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\UserModel.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:08:20.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fancy.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary1\\Fancy.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Fancy.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary1\\Fancy.Infrastructure.csproj",
+              "RelativeToolTip": "..\\ClassLibrary1\\Fancy.Infrastructure.csproj",
+              "ViewState": "AQIAABQAAACABR5zu0UXwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T02:58:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\Entity\\Image.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Entity\\Image.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\Entity\\Image.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Entity\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:08:20.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\Entity\\User.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:51:30.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Fancy.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\Fancy.Models.csproj",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Fancy.Models.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\ClassLibrary2\\Fancy.Models.csproj",
+              "RelativeToolTip": "..\\ClassLibrary2\\Fancy.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T07:59:25.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\Fancy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T08:06:06.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\FancyCommerce\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FancyCommerce\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\FancyCommerce\\Class1.cs",
+              "RelativeToolTip": "..\\FancyCommerce\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:12:07.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\FancyCommerce\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FancyCommerce\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\DOTNET PROJECTS\\SELFPROJECTS\\FancyCommerce\\Class1.cs",
+              "RelativeToolTip": "..\\FancyCommerce\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:06:18.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

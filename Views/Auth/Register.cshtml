@@ -1,0 +1,42 @@
+﻿@model Fancy.Web.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/Layout_Login.cshtml";
+}
+
+
+<div class="container">
+    <div class=" row ">
+        <div class=" col-6 offset-3 border border-primary rounded pl-5 pr-5 pb-5 ">
+            <div class="text-center">
+                <h1 class="text-info">User Registration</h1>
+            </div>
+            <h3 class=" text-danger text-center">@TempData["errorMessage"]</h3>
+            <form method="post" asp-action="SignUp">
+                <div class="form-group">
+                    <label asp-for="Username"> </label>
+                    <input type="text" class="form-control" asp-for="Username" placeholder="Enter username" name="Username">
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email"> </label>
+                    <input type="text" class="form-control" id="email" asp-for="Email" placeholder="Enter email" name="Email">
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password"> </label>
+                    <input type="password" class="form-control" asp-for="Password" placeholder="Enter password" name="Password">
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IsAdmin"> </label>
+                    <input type="checkbox" checked="checked" asp-for="IsAdmin" placeholder="Admin?" name="Admin?">
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="REGISTER" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
